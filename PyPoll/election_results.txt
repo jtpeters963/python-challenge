@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 Election Results 
 Total Votes: 3521001 
 Khan: 63.0% (2218231) 
 Correy: 20.0% (704200) 
 Li: 14.0% (492940) 
 O'Tooley: 3.0% (105630) 
+=======
+Election Results 
+Total Votes: 3521001 
+Khan: 63.0% (2218231) 
+Correy: 20.0% (704200) 
+Li: 14.0% (492940) 
+O'Tooley: 3.0% (105630) 
+>>>>>>> fe3fce55be5f04456b922da48a6b0119f1540b52
 The winner is Khan!

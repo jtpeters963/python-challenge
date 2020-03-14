@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Total Months: 86 
 Total: $38382578.0 
 Average Change: $-2315.12 
 Createst Increase in Profits: Feb-2012($1926159.0) 
 Greatest Decrease in Profits: Sep-2013($-2196167.0) 
+=======
+Total Months: 86 
+Total: $38382578.0 
+Average Change: $-2315.12 
+Createst Increase in Profits: Feb-2012($1926159.0) 
+Greatest Decrease in Profits: Sep-2013($-2196167.0) 
+>>>>>>> fe3fce55be5f04456b922da48a6b0119f1540b52
